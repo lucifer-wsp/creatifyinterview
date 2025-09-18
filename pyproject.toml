@@ -2,9 +2,7 @@
 name = "creatifyinterview"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "wusp"}
-]
+authors = ["wusp"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
